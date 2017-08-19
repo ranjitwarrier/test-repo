@@ -1,2 +1,6 @@
 # test-repo
-testing
+##testing
+Learning checklist
+*watch videos
+*read helpfiles
+*code
